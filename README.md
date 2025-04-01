@@ -1,1 +1,2 @@
-# redi_css_project1
+
+hello my first git
